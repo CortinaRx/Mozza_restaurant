@@ -1,0 +1,19 @@
+.hero2 {
+    background-color: brown;
+    width: 100vw;
+    height: 30vh;
+
+    @include desktop {
+        height: 83vh;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+
+
+
+    }
+
+}
+
